@@ -1,3 +1,5 @@
+## TRANSFERRED TO: https://github.com/mirismaili/text-wrapper
+
 <p dir="auto">
 	<a href="https://npmjs.com/package/@live-html-editor/text-wrap">
 		<img alt="npm (scoped)" src="https://img.shields.io/npm/v/@live-html-editor/text-wrap.svg">
